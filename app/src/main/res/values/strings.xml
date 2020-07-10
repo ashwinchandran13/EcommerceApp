@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ecommerce-app</string>
+    <string name="intro_first">Browsing Our Shop Made Easy</string>
+    <string name="intro_second">Order for D2D Delivery</string>
+    <string name="btnLogin">User Login</string>
+    <string name="btnSignup">New User? Sign Up now!</string>
+    <string name="store_name">Lakshmi Store</string>
+    <string name="etr_email">Enter Email</string>
+    <string name="etr_pass">Enter Password</string>
+</resources>
